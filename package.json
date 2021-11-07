@@ -1,0 +1,16 @@
+{
+  "name": "send-email-by-nodemailer-and-oauth2",
+  "version": "1.0.0",
+  "description": "This app send an email from the authorized Google account by nodemailer with OAuth2.0 credentials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^63.0.0",
+    "nodemailer": "^6.4.14"
+  }
+}

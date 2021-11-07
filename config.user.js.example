@@ -1,0 +1,9 @@
+const config = {
+    client_ID: 'your-client-id',
+    client_secret: 'your-client-secret',
+    redirect_uri: 'https://developers.google.com/oauthplayground',
+    refresh_token: 'your-refresh-token',
+    auth_email: 'your-default-email',
+    user_name: 'your-user-name',
+}
+ module.exports.config_user = config

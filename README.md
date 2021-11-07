@@ -1,0 +1,1 @@
+<h1>Application for send email<br> from Google account <br>by nodemailer with OAuth2.0 credentials</h1> 
